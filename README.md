@@ -1,7 +1,4 @@
 # Financial Statement Analyis
-A simple notebook book with analysis on financial data of a company.
-
-# Financial Statement Analyis
 
 
 ## Table of contents
